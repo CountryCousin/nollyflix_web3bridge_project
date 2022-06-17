@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nollyflix_web3bridge_project/static/css/main.073c9b0a.css",
+    "main.js": "/nollyflix_web3bridge_project/static/js/main.a0623970.js",
+    "static/js/787.d8180b7d.chunk.js": "/nollyflix_web3bridge_project/static/js/787.d8180b7d.chunk.js",
+    "static/media/poster3.jpg": "/nollyflix_web3bridge_project/static/media/poster3.e520a6f6b69c44f30a25.jpg",
+    "static/media/poster5.jpg": "/nollyflix_web3bridge_project/static/media/poster5.54caf605008b1cb24a22.jpg",
+    "static/media/poster1.jpg": "/nollyflix_web3bridge_project/static/media/poster1.d47c1b73dafdc3df2543.jpg",
+    "static/media/poster6.jpg": "/nollyflix_web3bridge_project/static/media/poster6.da639f9be98cc937a00f.jpg",
+    "static/media/poster4.jpg": "/nollyflix_web3bridge_project/static/media/poster4.ec56015951bcd627e011.jpg",
+    "static/media/poster2.jpg": "/nollyflix_web3bridge_project/static/media/poster2.a50988715faf13af79c0.jpg",
+    "static/media/like.jpg": "/nollyflix_web3bridge_project/static/media/like.94a4efb9042b405e822a.jpg",
+    "static/media/logo.svg": "/nollyflix_web3bridge_project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/nollyflix_web3bridge_project/index.html",
+    "main.073c9b0a.css.map": "/nollyflix_web3bridge_project/static/css/main.073c9b0a.css.map",
+    "main.a0623970.js.map": "/nollyflix_web3bridge_project/static/js/main.a0623970.js.map",
+    "787.d8180b7d.chunk.js.map": "/nollyflix_web3bridge_project/static/js/787.d8180b7d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a0623970.js"
+  ]
+}
